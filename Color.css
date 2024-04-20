@@ -1,0 +1,37 @@
+.mmm {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    
+}
+
+.cord-header, .cord-footer {
+    background-color: #f0f0f0;
+    padding: 5px;
+    border-top: 1px solid #ccc;
+}
+
+.cord-body {
+    padding: 5px;
+}
+.nnn{
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+}
+.form{
+    border: 2px solid  green;
+    width: 250px;
+    margin-left: 300px;
+    height: 400px;
+   
+}
+.row{
+    margin-left: 2px;
+}
+p{
+    color:red
+}
+
